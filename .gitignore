@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+/binaryTree/node_modules
+/merkleTree/node_modules
+/merkleTree/.idea
+/binaryTree/.idea
