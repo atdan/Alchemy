@@ -4,3 +4,6 @@
 /merkleTree/node_modules
 /merkleTree/.idea
 /binaryTree/.idea
+/Trie/.idea
+/Trie/node_modules
+/Trie/.nyc_output
