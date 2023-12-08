@@ -7,3 +7,7 @@
 /Trie/.idea
 /Trie/node_modules
 /Trie/.nyc_output
+/alchemyu-json-activity/node_modules
+/alchemyu-json-activity/.env
+/binaryTree/.nyc_output/
+/alchemyu-json-activity/.nyc_output/
