@@ -1,0 +1,20 @@
+{
+  "name": "sign-tx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha wallet-test.js findEther-test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^3.1.0",
+    "chai": "^4.3.10",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0",
+    "ganache-core": "^2.13.2",
+    "mocha": "^3.5.0"
+  }
+}

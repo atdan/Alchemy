@@ -11,3 +11,7 @@
 /alchemyu-json-activity/.env
 /binaryTree/.nyc_output/
 /alchemyu-json-activity/.nyc_output/
+/node_modules
+/sign-tx/node_modules
+/sign-tx/.env
+/sign-tx/.idea
