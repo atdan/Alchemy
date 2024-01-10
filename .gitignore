@@ -28,3 +28,15 @@
              # solidity-coverage files
 /faucet-dapp/coverage
 /faucet-dapp/coverage.json
+
+/modify-contract-state/.env
+/modify-contract-state/node_modules
+             # Hardhat files
+/modify-contract-state/cache
+/modify-contract-state/artifacts
+             # TypeChain files
+/modify-contract-state/typechain
+/modify-contract-state/typechain-types
+             # solidity-coverage files
+/modify-contract-state/coverage
+/modify-contract-state/coverage.json
