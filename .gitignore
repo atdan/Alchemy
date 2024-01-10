@@ -7,11 +7,24 @@
 /Trie/.idea
 /Trie/node_modules
 /Trie/.nyc_output
-/alchemyu-json-activity/node_modules
-/alchemyu-json-activity/.env
+/json-activity/node_modules
+/json-activity/.env
 /binaryTree/.nyc_output/
-/alchemyu-json-activity/.nyc_output/
+/json-activity/.nyc_output/
 /node_modules
 /sign-tx/node_modules
 /sign-tx/.env
 /sign-tx/.idea
+/block-explorer/node_modules
+/block-explorer/.env
+/faucet-dapp/.env
+/faucet-dapp/node_modules
+             # Hardhat files
+/faucet-dapp/cache
+/faucet-dapp/artifacts
+             # TypeChain files
+/faucet-dapp/typechain
+/faucet-dapp/typechain-types
+             # solidity-coverage files
+/faucet-dapp/coverage
+/faucet-dapp/coverage.json
