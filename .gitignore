@@ -25,7 +25,7 @@
              # TypeChain files
 /faucet-dapp/typechain
 /faucet-dapp/typechain-types
-             # solidity-coverage files
+             # solidity-coverage files/home/dayemon/Documents/Blockchain/home/dayemon/Documents/Blockchain
 /faucet-dapp/coverage
 /faucet-dapp/coverage.json
 
@@ -40,3 +40,16 @@
              # solidity-coverage files
 /modify-contract-state/coverage
 /modify-contract-state/coverage.json
+
+#event emitter
+/event-emitter-dapp/.env
+/event-emitter-dapp/node_modules
+             # Hardhat files
+/event-emitter-dapp/cache
+/event-emitter-dapp/artifacts
+             # TypeChain files
+/event-emitter-dapp/typechain
+/event-emitter-dapp/typechain-types
+             # solidity-coverage files/home/dayemon/Documents/Blockchain/home/dayemon/Documents/Blockchain
+/event-emitter-dapp/coverage
+/event-emitter-dapp/coverage.json

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx hardhat test",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "hardhat": "hardhat --config hardhat.config.cjs"
   },
   "keywords": [],
