@@ -35,4 +35,8 @@ contract Faucet {
 
     // Accept any incoming amount
     receive() external payable {}
+
+    function withdraw() external {
+        msg.sender.transfer(1 ether);
+    }
 }

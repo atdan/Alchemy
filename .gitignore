@@ -53,3 +53,10 @@
              # solidity-coverage files/home/dayemon/Documents/Blockchain/home/dayemon/Documents/Blockchain
 /event-emitter-dapp/coverage
 /event-emitter-dapp/coverage.json
+
+/mapping-struct/node_modules
+
+/simple-collectible/node_modules
+/simple-collectible/.env
+/simple-collectible/cache
+/simple-collectible/artifacts
