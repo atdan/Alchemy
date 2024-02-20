@@ -60,3 +60,8 @@
 /simple-collectible/.env
 /simple-collectible/cache
 /simple-collectible/artifacts
+
+/party-dapp/node_modules
+/party-dapp/.env
+/party-dapp/cache
+/party-dapp/artifacts
