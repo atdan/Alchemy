@@ -65,3 +65,8 @@
 /party-dapp/.env
 /party-dapp/cache
 /party-dapp/artifacts
+
+/dead-man-switch-dapp/node_modules
+/dead-man-switch-dapp/.env
+/dead-man-switch-dapp/cache
+/dead-man-switch-dapp/artifacts
