@@ -70,3 +70,13 @@
 /dead-man-switch-dapp/.env
 /dead-man-switch-dapp/cache
 /dead-man-switch-dapp/artifacts
+
+/multi-sig-tx/node_modules
+/multi-sig-tx/.env
+/multi-sig-tx/cache
+/multi-sig-tx/artifacts
+
+/hackathon-dapp/node_modules
+/hackathon-dapp/.env
+/hackathon-dapp/cache
+/hackathon-dapp/artifacts
